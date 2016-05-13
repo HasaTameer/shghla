@@ -1,0 +1,31 @@
+@font-face {
+    font-family: "GEDinarOneBold";
+    src: url('gedinarone_bold_shahidnew.eot?p=virsion2');
+    src: url('gedinarone_bold_shahidnew.eot?#iefix2') format('embedded-opentype'),
+    url('gedinarone_shahid.woff?p=virsion2') format('woff'),
+    url('segoeui_3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'shahidRegular';
+    src: url('gedinarone_web-medium-webfont.eot');
+    src: url('gedinarone_web-medium-webfont.eot?#iefix') format('embedded-opentype'),
+    url('gedinarone_web-medium-webfont_woff.woff') format('woff'),
+    url('gedinarone_web-medium-webfont_ttf.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Conv_segoeui_3';
+    src: url('segoeui_3.eot');
+    src: local('â??'),
+    url('segoeui_3.woff') format('woff'),
+    url('segoeui_3.ttf') format('truetype'),
+    url('segoeui_3.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
