@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="css/animation.css"/>
     <link rel="stylesheet" type="text/css" href="css/cal-iconz.css"/>
     <link rel="stylesheet" type="text/css" href="css/stylesheet.ltr.css"/>
-	<link rel="shortcut icon" type="img/x-icon" href="img/altameer.ico"  />
+	<link rel="shortcut icon" type="img/x-icon" href="img/ras.ico"  />
 	
 	<script src = "http://maps.googleapis.com/maps/api/js?language=en"></script>
     <script>
@@ -3307,8 +3307,7 @@ function validateNumber(evt) {
             <div class="col-lg-12">
                 <span>Upload Transcript of Results - تحميل شهادة الدرجات: *</span>
                 <input type="file" id="uploadTranscript" name="uploadTranscript" class="form-control" accept=".pdf , .docx , .doc"/>
-            </div>
-        </div>				<p><br/><br/><br/><br/></p>				<p align="left">&nbsp;&nbsp; المراجع</p>		
+            </div>			<p><br/><br/><br/><br/></p>			</div>						<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; المراجع</p>		
 		<div class="col-lg-12" align="left">
 			<div class="col-lg-3" align="left"><button type="button" class="btn btn-default" onclick="references()"> << References</button></div>
 		</div>

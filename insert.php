@@ -98,7 +98,7 @@ if (!$link) {
 	 $value68 = $_POST['cDetail'];
 	 $value69 = $_POST['cDetail2'];
 	 $value70 = $_POST['mobZip3'];
-	 $value71 = $_POST['cREmail1'];	 if ((isset($_FILES['uploadCV']) && count($_FILES['uploadCV']['error']==1))){
+	 $value71 = $_POST['cREmail1'];	 if (isset($_FILES['uploadCV'])){
     $cvExtension = pathinfo($_FILES['uploadCV']['name'])['extension'];
     $cvName = time().'.'.$cvExtension;
     $targetCV = "./cv/".$cvName;
